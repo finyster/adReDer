@@ -1,0 +1,6 @@
+numpy
+opencv-python
+Pillow
+mediapipe==0.10.21
+tflite-runtime
+psutil
